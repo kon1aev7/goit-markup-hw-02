@@ -12,7 +12,7 @@
   --second-button-color: #212121;
   --accent-color: #2196f3;
   --btn-bg-color: #f5f4fa;
-  --change-btn-color: #39719e;
+  --change-btn-color: #188ce8;
 }
 
 body {
@@ -123,7 +123,7 @@ body {
 }
 .app:hover,
 .app:focus {
-  background-color: #188ce8;
+  background-color: var(--change-btn-color)
 }
 
 /*СКРЫТЫЙ ЗАГОЛОВОК Н2*/
